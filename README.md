@@ -27,6 +27,8 @@ In the future, I should try to increase the funcionality of my code by attemptin
 
 
 Conclusion
+
+
 2018 & 2020 both experienced overall positive growth via overall percentage change of all the stocks listed. However, the general performance and percentage change of
 stocks from 2019 was quite poor with the average percentage change being negative for the stocks provided. 
 
