@@ -1,8 +1,11 @@
 # VBA-Challenge
 Executive Summary
+
+
 The market had overall growth in the years 2018 and 2020 while stock prices dropped in the year 2019. 
 
 Introduction
+
 
 This data contains a years worth of stock information regarding open and closing price, as well as volume sold in a given day. Once completed, this analysis will contain important information regarding the performance of the individual stocks such as the change in a given stocks price over the course of the year, the percent change of the stock, and the total volume traded throughout the year. 
 
