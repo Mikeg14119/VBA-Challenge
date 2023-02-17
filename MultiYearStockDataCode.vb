@@ -66,7 +66,7 @@ Sub MarketTicker()
                 ws.Range("L" & (j + 1)).Value = totalVolume
                 
                 'Apply conditional formatting to yearly change
-                Set formatRange = ws.Range("K" & (j + 1))
+                Set formatRange = ws.Range("J" & (j + 1))
                 If yearlyChange > 0 Then
                     formatRange.Interior.Color = RGB(0, 255, 0) ' Green
                 ElseIf yearlyChange < 0 Then
